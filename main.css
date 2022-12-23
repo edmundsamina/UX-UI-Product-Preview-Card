@@ -127,6 +127,11 @@ button{
     font-size: 0.8rem;
 }
 
+button:hover{
+    background-color: #1A4031;
+    cursor: pointer;
+}
+
 
 .attribution{
     margin-top: 50px;
